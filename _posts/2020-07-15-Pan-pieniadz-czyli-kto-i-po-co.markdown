@@ -14,7 +14,7 @@ Jestem Pan Pieniądz i od urodzenia mieszkam w Polsce. Pracuję na pograniczu st
 
 Przyłapałem się jakiś czas temu na tym, że bardzo dużo myślę o pieniądzach, a nie za wiele w ich temacie robię. Mój typowy plan dnia był prosty - pójść do pracy, wrócić o domu i załatwić wszytkie obowiązki, usiąść na kanapie i ponarzekać ile to mam roboty, jak stresującej i jak wszystko było by prostrze, gdybym miał na koncie 20 milionów i tylko żył z odsetek. Wystarczył jeden wieczór więcej, gdzie szczęśliwie naszła mnie po tym krótka refleksja. No właśnie - czy napewno byłoby tak łatwo? Czy napewno 20 milionów? Odsetek z czego? Gdzie trzymać 20 milionów? No i tak się zaczeła moja finansowa edukacja.
 
-{% include figure image_path="/assets/img/2020-07-15-Pan-pieniadz-czyli-kto-i-po-co_1.jpg" alt="Marathon" caption="Photo by Mārtiņš Zemlickis on Unsplash" %}
+{% include figure image_path="/assets/img/2020-07-15-Pan-pieniadz-czyli-kto-i-po-co/1.jpg" alt="Marathon" caption="Photo by Mārtiņš Zemlickis on Unsplash" %}
 
 ## I co teraz?
 
