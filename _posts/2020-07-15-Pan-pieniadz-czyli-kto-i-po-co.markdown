@@ -2,7 +2,6 @@
 layout: single
 title:  "Pan Pieniądz - czyli kto i po co?"
 date:   2020-07-15 12:00:00 +0100
-categories: lifestyle
 ---
 
 Pierwsza randka, pierwszy pocałunek, pierwsza praca i samochód. Zawsze ta sama niepewność, nieśmiałość i poczucie zagubienia. Okazuje się, że podobne odczucie przychodzi wraz z otwarciem notatnika, aby przygotować test na powitalną publikację. Ze wszystkim można sobie dać jednak radę zdecydowaniem i sumiennością. Właściwie, te dwie cechy stanowić będą swego rodzaju kręgosłup Pana Pieniądzą, więc mam nadzieje, że prozmawiamy jeszcze o nich nie raz.

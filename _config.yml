@@ -19,10 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Moje podejście do codziennych finansów. Pasywne dochody i
   sposoby na niezależność finansową.
 baseurl: "/money_blog" # the subpath of your site, e.g. /blog
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: default
 search: true
+locale: pl
 
 # Build settings
 markdown: kramdown
@@ -35,18 +34,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -62,31 +49,6 @@ author:
   name   : "Pan Pieniądz"
   avatar : "/assets/img/logo.svg"
   bio    : "Moje podejście do codziennych finansów. Pasywne dochody i sposoby na niezależność finansową."
-  #links:
-  #  - label: "Website"
-  #    icon: "fas fa-fw fa-link"
-  #    url: "https://"
-  #  - label: "Twitter"
-  #    icon: "fab fa-fw fa-twitter-square"
-  #    url: "https://twitter.com/"
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #    url: "https://github.com/"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/"
-
-footer:
-  #links:
-  #  - label: "Twitter"
-  #    icon: "fab fa-fw fa-twitter-square"
-  #    url: "https://twitter.com/"
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #    url: "https://github.com/"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -107,10 +69,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
