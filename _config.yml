@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pan Pieniądz
+logo: "/assets/img/logo.svg"
+subtitle: FIRE po mojemu
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Moje podejście do codziennych finansów. Pasywne dochody i
@@ -21,10 +23,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/money_blog" # the subpath of your site, e.g. /blog
 minimal_mistakes_skin: default
 search: true
-locale: "pl_PL"
+locale: pl_PL
 
 # Google services
-google_analytics: UA—XXXXXXXX-X
+google_analytics: G-CLG68JG7XY
 
 # Build settings
 markdown: kramdown
