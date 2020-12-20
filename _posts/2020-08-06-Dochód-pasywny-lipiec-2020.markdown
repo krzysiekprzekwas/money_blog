@@ -3,7 +3,7 @@ layout: single
 title:  "Dochód pasywny - lipiec 2020"
 date:   2020-08-06 12:00:00 +0100
 header:
-    teaser: /assets/img/2020-08-01-Moje-cele-na-spokojne-finanse/teaser.jpg
+    teaser: /assets/img/2020-08-06-Dochód-pasywny-lipiec-2020/teaser.jpg
 ---
 
 Oto pierwsze podsumowanie moich działań. Zdążyliśmy już omówić takie aspekty jak powody dla których warto zainteresować się dochodem pasywnym, jak go interpretować oraz jak poprawnie ustanowić cele. Ten wpis będzie pierwszym z serii realnych przykładów przybliżających nas do prawdziwej finansowej niezależności.
