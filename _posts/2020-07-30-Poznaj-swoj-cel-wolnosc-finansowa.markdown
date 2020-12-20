@@ -3,7 +3,7 @@ layout: single
 title:  "Poznaj swój cel - wolność finansowa"
 date:   2020-07-30 12:00:00 +0100
 header:
-    teaser: /assets/img/2020-07-15-Pan-pieniadz-czyli-kto-i-po-co/teaser.jpg
+    teaser: /assets/img/2020-07-30-Poznaj-swoj-cel-wolnosc-finansowa/teaser.jpg
 ---
 
 Coraz częściej słyszymy to hasło. Widnieje w reklamach banków, towarzystw ubezpieczeniowych czy niezależnych produktów finansowych. Obiecuje dostojne życie, brak zmartwień, zdrowie, urodę i wieczną młodość - może, nie zawsze wszystko na raz. Nie zmienia to jednak faktu, że rozmawiając o wolności finansowej w umysłach odbiorców rysuje się nieosiągalna utopia na poziomie marzeń o locie na Słońce. Postawmy sobie parę ważnych punktów pod tym hasłem przekładając jego interpretację na codzienne realia.

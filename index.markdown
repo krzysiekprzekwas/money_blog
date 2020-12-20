@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Moje podejście do codziennych finansów. Pasywne dochody i sposoby na niezależność finansową. Subiektywnie, finansowo, rzetelnie."
 ---
-<h1>Ostatni post</h1>
+<h1>Najnowszy post</h1>
 {% for post in site.posts limit:1 %}
   {% include archive-single.html %}
 {% endfor %}

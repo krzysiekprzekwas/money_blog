@@ -1281,3 +1281,5 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .page__content p {
     text-align: justify;
   }
+  
+  @media (min-width: 80em) { .layout--splash #main { padding: 0px 84px; }
