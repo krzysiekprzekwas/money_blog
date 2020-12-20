@@ -25,6 +25,9 @@ minimal_mistakes_skin: default
 search: true
 locale: pl_PL
 
+head_scripts:
+  - https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js
+
 # Google services
 google_analytics: G-CLG68JG7XY
 
