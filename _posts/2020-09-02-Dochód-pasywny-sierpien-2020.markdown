@@ -21,19 +21,26 @@ Wynik nadal poniżej rekordów, lecz wciąż udało się uzyskać zwrot w wysoko
 var ctx = document.getElementById('mintosEurChart').getContext('2d');
 var myChart = new Chart(ctx,
     {
-        "type":"line",
-        "data":
-        {
+        type: "line",
+        data: {
             "labels":["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets":[
-                {
-                    "label":"Mintos EUR",
-                    "data":[19.92, 21.23],
-                    "fill":false,
-                    "borderColor":"rgb(75, 192, 192)",
-                    "lineTension":0.1
-                }
-                ]}
+            "datasets":[{
+                    "label": "Mintos EUR",
+                    "data": [19.92, 21.23],
+                    "fill": false,
+                    "borderColor": "rgb(75, 192, 192)",
+                    "lineTension": 0.1
+                }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
     }
 );
 </script>
@@ -47,19 +54,26 @@ Pierwsze realne zwroty! W sierpniu otrzymałem dwie płatności z odsetkami w wy
 var ctx = document.getElementById('crowdestorChart').getContext('2d');
 var myChart = new Chart(ctx,
     {
-        "type": "line",
-        "data":
-        {
-            "labels": ["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets": [
-                {
+        type: "line",
+        data: {
+            "labels":["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
+            "datasets":[{
                     "label": "Crowdestor",
                     "data": [6.12, 14.09],
                     "fill": false,
                     "borderColor": "rgb(75, 192, 192)",
                     "lineTension": 0.1
-                }
-                ]}
+                }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
     }
 );
 </script>
@@ -73,19 +87,26 @@ W poprzedzającym miesiącu wynik na rodzimych złotówkach był bardzo zadowala
 var ctx = document.getElementById('mintosPlnChart').getContext('2d');
 var myChart = new Chart(ctx,
     {
-        "type":"line",
-        "data":
-        {
+        type: "line",
+        data: {
             "labels":["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets":[
-                {
-                    "label":"Mintos EUR",
+            "datasets":[{
+                    "label": "Mintos PLN",
                     "data":[32.02, 13.70],
-                    "fill":false,
-                    "borderColor":"rgb(75, 192, 192)",
-                    "lineTension":0.1
-                }
-                ]}
+                    "fill": false,
+                    "borderColor": "rgb(75, 192, 192)",
+                    "lineTension": 0.1
+                }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
     }
 );
 </script>
