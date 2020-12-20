@@ -28,16 +28,17 @@ locale: pl_PL
 head_scripts:
   - https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js
 
-# Google services
-google_analytics: G-CLG68JG7XY
+# Analytics
+analytics:
+  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-CLG68JG7XY" # Replace this with your ID, or delete
+    anonymize_ip         : true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -73,6 +74,12 @@ defaults:
   # _pages
   - scope:
       path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: "archive"
       type: pages
     values:
       layout: single

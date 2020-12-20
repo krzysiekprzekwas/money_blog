@@ -36,7 +36,3 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
-
-{% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}

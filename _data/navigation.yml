@@ -1,0 +1,5 @@
+main:
+  - title: "Posty"
+    url: /posts/
+  - title: "O Mnie"
+    url: /about/
