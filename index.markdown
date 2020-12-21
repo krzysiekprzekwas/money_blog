@@ -15,6 +15,8 @@ excerpt: "Moje podejście do codziennych finansów. Pasywne dochody i sposoby na
   {% include archive-single.html %}
 {% endfor %}
 <h1>Poprzednie posty</h1>
-{% for post in site.posts offset:1 limit:2 %}
+{% for post in site.posts offset:1 limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
+
+[Zobacz wszystkie posty](./posts)
