@@ -1282,4 +1282,6 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
     text-align: justify;
   }
   
-  @media (min-width: 80em) { .layout--splash #main { padding: 0px 84px; }
+  @media (min-width: 80em) { .layout--splash #main { padding: 0px 84px; } }
+
+  @media (max-width: 80em) { .layout--single .author__urls-wrapper { display: none; } }
