@@ -20,7 +20,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Moje podejście do codziennych finansów. Pasywne dochody i
   sposoby na niezależność finansową.
-baseurl: "/money_blog" # the subpath of your site, e.g. /blog
+baseurl: ""
 minimal_mistakes_skin: default
 search: true
 locale: pl_PL
