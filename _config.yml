@@ -27,6 +27,7 @@ locale: pl_PL
 
 head_scripts:
   - https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js
+  - https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.7.0
 
 # Analytics
 analytics:
