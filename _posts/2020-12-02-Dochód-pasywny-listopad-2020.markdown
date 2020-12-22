@@ -33,6 +33,12 @@ var myChart = new Chart(ctx,
                 }]
         },
         options: {
+            plugins: {
+              datalabels: {
+                 // hide datalabels for all datasets
+                 display: false
+              }
+            },
             scales: {
                 yAxes: [{
                     ticks: {
@@ -66,6 +72,12 @@ var myChart = new Chart(ctx,
                 }]
         },
         options: {
+            plugins: {
+              datalabels: {
+                 // hide datalabels for all datasets
+                 display: false
+              }
+            },
             scales: {
                 yAxes: [{
                     ticks: {
@@ -99,6 +111,12 @@ var myChart = new Chart(ctx,
                 }]
         },
         options: {
+            plugins: {
+              datalabels: {
+                 // hide datalabels for all datasets
+                 display: false
+              }
+            },
             scales: {
                 yAxes: [{
                     ticks: {
