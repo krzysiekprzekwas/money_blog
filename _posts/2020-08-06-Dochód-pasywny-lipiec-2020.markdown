@@ -24,76 +24,16 @@ W lipcu otrzymałem łącznie **32,03 zł** i **26,04 €** pasywnego dochodu. W
 
 To nie był mój najlepszy miesiąc na tym portalu w tej walucie, lecz wciąż udało się uzyskać zwrot w wysokości **19,92 €**. Przez cały miesiąc nie dokonałem ani jednej akcji w portalu. Nie zmieniałem wysokości kapitału, ani nie zmieniałem ustawień inwestowania - typowo pasywny zysk.
 
-<canvas id="mintosEurChart" width="400" height="250"></canvas>
-<script>
-var ctx = document.getElementById('mintosEurChart').getContext('2d');
-var myChart = new Chart(ctx,
-    {
-        "type":"line",
-        "data":
-        {
-            "labels":["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets":[
-                {
-                    "label":"Mintos EUR",
-                    "data":[19.92],
-                    "fill":false,
-                    "borderColor":"rgb(75, 192, 192)",
-                    "lineTension":0.1
-                }
-                ]}
-    }
-);
-</script>
+{% include platform-chart.html id="mintos_eur_chart" platform_name="Mintos EUR" data="[19.92]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
 
 ## Mintos PLN
 
 W naszej rodzimej walucie mam w tym miesiącu najlepszy wynik do tej pory. Wartość mojego konta wzrosła o **32,02 zł**. Tak jak wcześniej przez cały miesiąc nie dokonałem ani jednej akcji w portalu.
 
-<canvas id="mintosPlnChart" width="400" height="250"></canvas>
-<script>
-var ctx = document.getElementById('mintosPlnChart').getContext('2d');
-var myChart = new Chart(ctx,
-    {
-        "type":"line",
-        "data":
-        {
-            "labels":["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets":[
-                {
-                    "label":"Mintos EUR",
-                    "data":[32.02],
-                    "fill":false,
-                    "borderColor":"rgb(75, 192, 192)",
-                    "lineTension":0.1
-                }
-                ]}
-    }
-);
-</script>
+{% include platform-chart.html id="mintos_pln_chart" platform_name="Mintos PLN" data="[32.02]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
 
 ## Crowdestor
 
 To dla mnie pierwszy miesiąc z tą platoformą. Pierwsze fundusze przelałem 02.07.2020 w kwocie 280.73 € i całość zainwestowałem w jeden projekt. W lipcu otrzymałem jedeną płątność z odsetkami w wysokośći **6,12 €**. Na koniec miesiąca dokonałęm jeszcze dwóch przelewów zwiększając swoją pozycję w tym serwisie.
 
-<canvas id="crowdestorChart" width="400" height="250"></canvas>
-<script>
-var ctx = document.getElementById('crowdestorChart').getContext('2d');
-var myChart = new Chart(ctx,
-    {
-        "type": "line",
-        "data":
-        {
-            "labels": ["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets": [
-                {
-                    "label": "Crowdestor",
-                    "data": [6.12],
-                    "fill": false,
-                    "borderColor": "rgb(75, 192, 192)",
-                    "lineTension": 0.1
-                }
-                ]}
-    }
-);
-</script>
+{% include platform-chart.html id="crowdestor_chart" platform_name="Crowdestor" data="[6.12]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}

@@ -1,0 +1,33 @@
+<canvas id="{{ include.id }}" width="400" height="250"></canvas>
+<script>
+var ctx = document.getElementById('{{ include.id }}').getContext('2d');
+var myChart = new Chart(ctx,
+    {
+        type: "line",
+        data: {
+            "labels": {{ include.labels }},
+            "datasets":[{
+                    "label": "{{ include.platform_name }}",
+                    "data": {{ include.data }},
+                    "fill": false,
+                    "borderColor": "rgb(75, 192, 192)",
+                    "lineTension": 0.1
+                }]
+        },
+        options: {
+            plugins: {
+              datalabels: {
+                 display: false
+              }
+            },
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+    }
+);
+</script>

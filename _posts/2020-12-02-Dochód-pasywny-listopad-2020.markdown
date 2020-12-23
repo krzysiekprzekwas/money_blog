@@ -16,118 +16,19 @@ W październiku otrzymałem łącznie **10,26 zł** i **36,02 €** pasywnego do
 
 Delikatny wzrost otrzymanych odsetek. Platforma wygenerowała zysk w wysokości **22,20 €** przy stanie konta w wysokości **2401,58 €**. Ustawienia pozostawiłęm bez zmian. Moja pozycja w tym serwisie i tak jest już dość znacząca, więc na ten moment nic nie dopłacam. Czekam na rozwój wydarzeń z zalegającymi praktycznie u wszystkich Środkami w trakcie odzyskiwania. Ostatnie wieści na temat spłat zaległości od Capital Finance i Finko uznałbym za umiarkowanie pozytywne.
 
-<canvas id="mintosEurChart" width="400" height="250"></canvas>
-<script>
-var ctx = document.getElementById('mintosEurChart').getContext('2d');
-var myChart = new Chart(ctx,
-    {
-        type: "line",
-        data: {
-            "labels":["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets":[{
-                    "label": "Mintos EUR",
-                    "data": [19.92, 21.23, 17.21, 19.74, 22.20],
-                    "fill": false,
-                    "borderColor": "rgb(75, 192, 192)",
-                    "lineTension": 0.1
-                }]
-        },
-        options: {
-            plugins: {
-              datalabels: {
-                 // hide datalabels for all datasets
-                 display: false
-              }
-            },
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero: true
-                    }
-                }]
-            }
-        }
-    }
-);
-</script>
+{% include platform-chart.html id="mintos_eur_chart" platform_name="Mintos EUR" data="[19.92, 21.23, 17.21, 19.74, 22.20]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
 
 ## Crowdestor
 
 W listopadzie Crowderstor wzbogacił mnie o **13,82 €**. Jak bardzo lubię to platformę, tak ma ona naprawdę twardy orzech do zgryzienia z przekonaniem inwestorów do przekazania kolejnych środków do firm, których płynność w ostatnim roku diametralnie się pogorszyła. Za ruch w tę stronę odbieram ogłoszony niedawno 2% cashback na wszystkie inwestycje z rynku pierwotnego w grudniu. Świąteczna promocja czy akt desperacji? Osobiście zdecydowałem się reinwestować środki na platformie w inwestycję dotyczącą rękawiczek medycznych (głównie dlatego, że poprzednia inwestycja tego pożyczkobiorcy poszła bardzo sprawnie). Moja aktualna pozycja w tym portalu to **961.52 €** i nie zamieniam jej zmieniać. 
 
-<canvas id="crowdestorChart" width="400" height="250"></canvas>
-<script>
-var ctx = document.getElementById('crowdestorChart').getContext('2d');
-var myChart = new Chart(ctx,
-    {
-        type: "line",
-        data: {
-            "labels":["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets":[{
-                    "label": "Crowdestor",
-                    "data": [6.12, 14.09, 6.99, 5.36, 13.82],
-                    "fill": false,
-                    "borderColor": "rgb(75, 192, 192)",
-                    "lineTension": 0.1
-                }]
-        },
-        options: {
-            plugins: {
-              datalabels: {
-                 // hide datalabels for all datasets
-                 display: false
-              }
-            },
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero: true
-                    }
-                }]
-            }
-        }
-    }
-);
-</script>
+{% include platform-chart.html id="crowdestor_chart" platform_name="Crowdestor" data="[6.12, 14.09, 6.99, 5.36, 13.82]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
 
 ## Mintos PLN
 
 Wartość mojego konta w rodzimej walucie wzrosła o **10,26 zł**. Nadal ciężka sytuacja patrząc na współczynnik opóźnionych płatności (aktualnie 55% inwestycji). Częściowo spowodowana tym, że wychodzę z tej inwestycji, więc pozostają te najbardziej problematyczne inwestycje. W listopadzie wypłaciłem kolejne **468.96 zł**. Póki co nie sprzedaje pożyczek, dam im jeszcze czas aby się zakończyć. Moja pozycja na koniec listopada to **1 170.49 zł**.
 
-<canvas id="mintosPlnChart" width="400" height="250"></canvas>
-<script>
-var ctx = document.getElementById('mintosPlnChart').getContext('2d');
-var myChart = new Chart(ctx,
-    {
-        type: "line",
-        data: {
-            "labels":["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets":[{
-                    "label": "Mintos PLN",
-                    "data":[32.02, 13.70, 25.51, 21.77, 10.26],
-                    "fill": false,
-                    "borderColor": "rgb(75, 192, 192)",
-                    "lineTension": 0.1
-                }]
-        },
-        options: {
-            plugins: {
-              datalabels: {
-                 // hide datalabels for all datasets
-                 display: false
-              }
-            },
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero: true
-                    }
-                }]
-            }
-        }
-    }
-);
-</script>
+{% include platform-chart.html id="mintos_pln_chart" platform_name="Mintos PLN" data="[32.02, 13.70, 25.51, 21.77, 10.26]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
 
 ## EvoEstate
 

@@ -16,97 +16,16 @@ We wrześniu otrzymałem łącznie **25,51 zł** i **24,20 €** pasywnego docho
 
 To znów nie był mój najlepszy miesiąc na tym portalu w tej walucie, lecz wciąż udało się uzyskać zwrot w wysokości **17,21 €**. Zauważalny spadek względem ostatniego miesiąca, lecz przy zainwestowanym kapitale i aktualnej rynkowej sytuacji - akceptowalny pod względem ryzyk i satysfakcjonujący pod względem zwrotu :-)
 
-<canvas id="mintosEurChart" width="400" height="250"></canvas>
-<script>
-var ctx = document.getElementById('mintosEurChart').getContext('2d');
-var myChart = new Chart(ctx,
-    {
-        type: "line",
-        data: {
-            "labels":["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets":[{
-                    "label": "Mintos EUR",
-                    "data": [19.92, 21.23, 17.21],
-                    "fill": false,
-                    "borderColor": "rgb(75, 192, 192)",
-                    "lineTension": 0.1
-                }]
-        },
-        options: {
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero: true
-                    }
-                }]
-            }
-        }
-    }
-);
-</script>
+{% include platform-chart.html id="mintos_eur_chart" platform_name="Mintos EUR" data="[19.92, 21.23, 17.21]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
 
 ## Crowdestor
 
 Po gwałtownym strzalne spowalniamy. W tym miesiącu Crowderstor wzbogacił mnie o **6.99 €**. To zrozumiałe względem małej ilości aktualnie dobranych projektów, jak i specyfiki portalu (pożyczki biznesowe). We wrześniu reinwestowałem 61.68 euro, które dotychczas uzbierało się z powracającego kapitału i odsetek oraz na koniec miesiąca powiększyłem swoją pozycję o kolejne 152 euro.
 
-<canvas id="crowdestorChart" width="400" height="250"></canvas>
-<script>
-var ctx = document.getElementById('crowdestorChart').getContext('2d');
-var myChart = new Chart(ctx,
-    {
-        type: "line",
-        data: {
-            "labels":["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets":[{
-                    "label": "Crowdestor",
-                    "data": [6.12, 14.09, 6.99],
-                    "fill": false,
-                    "borderColor": "rgb(75, 192, 192)",
-                    "lineTension": 0.1
-                }]
-        },
-        options: {
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero: true
-                    }
-                }]
-            }
-        }
-    }
-);
-</script>
+{% include platform-chart.html id="crowdestor_chart" platform_name="Crowdestor" data="[6.12, 14.09, 6.99]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
 
 ## Mintos PLN
 
 Po oziębłym sierpniu inwestycje w rodzimej walucie wracają na dobre tory. Wartość mojego konta wzrosła o **25,51** zł. Wciąż współczynnik opóźnionych płatności wskazuje zatrważające 50% inwestycji. Wciąż kwestia Capital Service pozostaje nierozwiązana. Niemniej nie ma powodów ku nadmiernej panice!
 
-<canvas id="mintosPlnChart" width="400" height="250"></canvas>
-<script>
-var ctx = document.getElementById('mintosPlnChart').getContext('2d');
-var myChart = new Chart(ctx,
-    {
-        type: "line",
-        data: {
-            "labels":["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"],
-            "datasets":[{
-                    "label": "Mintos PLN",
-                    "data":[32.02, 13.70, 25.51],
-                    "fill": false,
-                    "borderColor": "rgb(75, 192, 192)",
-                    "lineTension": 0.1
-                }]
-        },
-        options: {
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero: true
-                    }
-                }]
-            }
-        }
-    }
-);
-</script>
+{% include platform-chart.html id="mintos_pln_chart" platform_name="Mintos PLN" data="[32.02, 13.70, 25.51]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
