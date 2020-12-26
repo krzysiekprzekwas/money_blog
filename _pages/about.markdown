@@ -26,4 +26,4 @@ Co więcej droga poprzez wiele instrumentów finansowych, produktów i innych po
 
 No serio! Budowanie finansowego portfolio to nie wyścig. Nauka nie jest szybka, zwroty z inwestycji nie przychodzą od razu. Niemal wszystkie drogi na *szybki zarobek* z jakim się do tej pory spotkałem były lepiej lub gorzej kamuflowanym  oszustwem. Mówi się, że *pieniądze lubią ciszę*. Jak najbardziej! Lubią też czas, a my jako ludzie mamy tendencje do gorącej głowy. Stąd ten uroczy euro-ślimak prezentuje moją mozolną, lecz cierpliwą drogę do własnych celów.
 
-Zapraszam do moich [postów](./posts)!
+Zapraszam do moich [postów](/posts)!
