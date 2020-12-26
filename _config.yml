@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
 minimal_mistakes_skin: default
 search: true
-locale: pl
+locale: "pl"
 
 head_scripts:
   - https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js
