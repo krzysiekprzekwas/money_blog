@@ -33,7 +33,7 @@ head_scripts:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-CLG68JG7XY" # Replace this with your ID, or delete
+    tracking_id          : "G-CV68QVE010" # Replace this with your ID, or delete
     anonymize_ip         : true
 
 # Build settings
