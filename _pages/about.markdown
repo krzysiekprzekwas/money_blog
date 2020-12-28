@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Kim jestem?
 
-Jestem pracującym chłopakiem w wieku dwudziestu kilku lat. Jestem z Polskim i na ten moment w Polsce też pracuję i mieszkam. Moja przygoda z inwestowaniem rozpoczęła się w 2019 roku, gdy udało mi się zaoszczędzić większą kwotę pieniędzy. Za mało, żeby kupić mieszkanie na wynajem. Za dużo, żeby leżało i nic nie robiło.
+Jestem pracującym chłopakiem w wieku dwudziestu kilku lat. Pochodzą z centralnej Polski i na ten moment w tym kraju pracuję i mieszkam. Moja przygoda z inwestowaniem rozpoczęła się w 2019 roku, gdy udało mi się zaoszczędzić większą kwotę pieniędzy. Za mało, żeby kupić mieszkanie na wynajem. Za dużo, żeby leżało i nic nie robiło.
 
 ## Dlaczego inwestowanie?
 
