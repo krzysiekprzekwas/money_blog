@@ -30,11 +30,7 @@ head_scripts:
   - https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.7.0
 
 # Analytics
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-CV68QVE010" # Replace this with your ID, or delete
-    anonymize_ip         : true
+google_analytics : "G-CV68QVE010" 
 
 # Build settings
 markdown: kramdown
