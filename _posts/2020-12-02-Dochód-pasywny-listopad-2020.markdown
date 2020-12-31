@@ -10,7 +10,7 @@ Listopad za nami. Rzutem na taśmę udało się ustanowić nowy rekord miesięcz
 
 ## Podsumowanie
 
-W październiku otrzymałem łącznie **10,26 zł** i **36,02 €** pasywnego dochodu. W przeliczeniu na złotówki na podstawie kursu z ostatniego dnia miesiąca oznacza to łączny dochód w wysokości **171,60 zł** przy kapitale na ostatni dzień miesiąca w wysokości **18 832,81 zł**. Dołącza do nas kolejna platforma - **EstateGuru**! Zaczynając po kolei od najwyższych zysków:
+W listopadzie otrzymałem łącznie **10,26 zł** i **36,02 €** pasywnego dochodu. W przeliczeniu na złotówki na podstawie kursu z ostatniego dnia miesiąca oznacza to łączny dochód w wysokości **171,60 zł** przy kapitale na ostatni dzień miesiąca w wysokości **18 832,81 zł**. Dołącza do nas kolejna platforma - **EstateGuru**! Zaczynając po kolei od najwyższych zysków:
 
 ## Mintos EUR
 
