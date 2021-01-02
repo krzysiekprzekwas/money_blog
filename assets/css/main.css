@@ -1285,3 +1285,8 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   @media (min-width: 80em) { .layout--splash #main { padding: 0px 84px; } }
 
   @media (max-width: 80em) { .author__urls-wrapper { display: none; } }
+
+  .layout--single .page__lead { display: none; }
+
+  @media (min-width: 80em) { .layout--single .page__hero--overlay { min-height: 400px; } }
+  
