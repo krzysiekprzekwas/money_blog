@@ -27,6 +27,7 @@ W grudniu Crowderstor wzbogacił mnie o **15,35 €**. Miesiąc dość niestanda
 
 {% include platform-chart.html id="crowdestor_chart" platform_name="Crowdestor" data="[6.12, 14.09, 6.99, 5.36, 13.82, 15.35]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
 
+<script type="text/javascript"> document.write('<a href="https://c.trackmytarget.com/kwjv5c?source_id=pan_pieniadz"><img src="https://i.trackmytarget.com/kwjv5c?source_id=pan_pieniadz" width="728" height="90" border="0"/></a>'); </script>
 ## Mintos PLN
 
 Wartość mojego konta w złotówkach walucie wzrosła o **23,69 zł**. Ten wynik nazwałbym poetycko *ostatnim tchnieniem*. Na koniec miesiąca w moim portfolio pozostają dosłownie 3 pożyczki. W grudniu wypłaciłem łącznie **773,86 zł**. Moja pozycja na koniec miesiąca to **419,48 zł**.
@@ -39,9 +40,11 @@ Są pierwsze odsetki! Dzięki inwestycjom w nieruchomości na tym portalu otrzym
 
 {% include platform-chart.html id="estateguru_chart" platform_name="EstateGuru" data="[0,0,0,0,0, 1.11]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
 
+<script type="text/javascript"> document.write('<a href="https://c.trackmytarget.com/i6s52f?source_id=pan_pieniadz"><img src="https://i.trackmytarget.com/i6s52f?source_id=pan_pieniadz" width="728" height="90" border="0"/></a>'); </script>
+
 ## EvoEstate
 
-Na gwiazdkę (*dosłownie!*) otrzymałem także pierwsze odsetki z platformy EvoEstate w wysokości **0,85 €**. Sytuacja taka sama jak w EstateGuru. Bardzo przyjemne doświadczenie i jak na tą chwilę jestem zadowolony z inwestycji. W grudniu do portalu dołączyła firma [HeavyFinance](https://evoestate.com/blog/heavyfinance) specjalizująca się w pożyczkach pod maszyny produktyjne i budowlane. Ciekawa dywersyfikacja, jednak firma istnieje dopiero od 5 miesięcy i nie zamierzam w nią póki co inwestować.
+Na gwiazdkę (*dosłownie!*) otrzymałem także pierwsze odsetki z platformy [EvoEstate](https://c.trackmytarget.com/n98tou?source_id=pan_pieniadz) w wysokości **0,85 €**. Sytuacja taka sama jak w EstateGuru. Bardzo przyjemne doświadczenie i jak na tą chwilę jestem zadowolony z inwestycji. W grudniu do portalu dołączyła firma [HeavyFinance](https://evoestate.com/blog/heavyfinance) specjalizująca się w pożyczkach pod maszyny produktyjne i budowlane. Ciekawa dywersyfikacja, jednak firma istnieje dopiero od 5 miesięcy i nie zamierzam w nią póki co inwestować.
 
 {% include platform-chart.html id="evoestate_chart" platform_name="EvoEstate" data="[0,0,0,0,0, 0.85]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
 
@@ -49,6 +52,7 @@ Na gwiazdkę (*dosłownie!*) otrzymałem także pierwsze odsetki z platformy Evo
 
 Od dwóch miesięcy zwracam uwagę na zbyt dużą ekspozycję na rynek P2P poprzez Mintos. Zdecydowałem się w związku z tym na dołączenie do mojego portfela innej platformy o podobnym zakresie działania, jednak odmiennym sposobie. Wybór padł na Lendermarket. Ich pożyczki reprezentują grupę Creditstar - jednego z największych europejskich pożyczkodawców P2P. Strone jest dość skromna, lecz prosta w interakcji. Po ustawieniu automatycznego inwestowania, można o niej tak naprawdę zapomnieć. Nie jest to najlepszy wybór ze względu na dywersyfikację pożyczkodawców ponieważ wszystkie pożyczki pochodzą od jednej wcześniej wspomnianej grupy. W związku z tym na ten moment nie zamierzam przekraczać progu 1000 € na tym portalu. Równolegle usuwam firmę Creditstar z moich ustawień na Mintos, aby nie inwestować drukrotnie w te same pożyczki. Na ten moment przelałem do Lendermarket **182,82 €**.
 
+<script type="text/javascript"> document.write('<a href="https://c.trackmytarget.com/nreof9?source_id=pan_pieniadz"><img src="https://i.trackmytarget.com/nreof9?source_id=pan_pieniadz" width="728" height="90" border="0"/></a>'); </script>
 ## Portfolio
 
 Na koniec procentowe udziały poszczególnych portali przy kursie euro na koniec grudnia. Udział Mintos'a spadł o ponad 3 punkty procentowe, jednak nadal ma on (*zbyt*) duży udział w portfelu.
