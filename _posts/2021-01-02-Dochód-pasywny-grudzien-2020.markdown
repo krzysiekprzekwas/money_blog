@@ -17,7 +17,7 @@ W grudniu otrzymałem łącznie **23,69 zł** i **37,22 €** pasywnego dochodu.
 
 ## Mintos EUR
 
-W ostatnich trzech miesiącach odsetki z Mintos'a zdają się normować na stabilnym poziomie. Platforma wygenerowała zysk w wysokości **19,91 €** przy stanie konta w wysokości **2 420,90 €**. Ustawienia pozostawiłęm bez zmian. Moja pozycja w tym serwisie jest na ten moment na tyle wysoka, że wszystkie nowe inwestycje planuje w alternatywnych portalach. *Środki w trakcie odzyskiwania* nadal bez zmian. Liczę na to, że w 2021 zredukuje się ten *cash drag*, ale perspektywy na to póki co są nikłe.
+W ostatnich trzech miesiącach odsetki z Mintos'a zdają się normować na stabilnym poziomie. Platforma wygenerowała zysk w wysokości **19,91 €** przy stanie konta w wysokości **2 420,90 €**. Ustawienia pozostawiłem bez zmian. Moja pozycja w tym serwisie jest na ten moment na tyle wysoka, że wszystkie nowe inwestycje planuje w alternatywnych portalach. *Środki w trakcie odzyskiwania* nadal bez zmian. Liczę na to, że w 2021 zredukuje się ten *cash drag*, ale perspektywy na to póki co są nikłe.
 
 {% include platform-chart.html id="mintos_eur_chart" platform_name="Mintos EUR" data="[19.92, 21.23, 17.21, 19.74, 22.20, 19.91]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020"]' %}
 
