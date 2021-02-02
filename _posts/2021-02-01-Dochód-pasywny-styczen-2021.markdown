@@ -17,9 +17,11 @@ W grudniu otrzymałem łącznie **29,79 €** i *(uwaga, uwaga)* straciłem **0,
 
 ## Mintos EUR
 
-Lekkie wybicie ponad średnią z nowym rekordem zwrotów. Platforma wygenerowała zysk w wysokości **24,35 €** przy stanie konta w wysokości **2 445.40 €**. Ustawienia pozostawiłem bez zmian. Od lutego zamierzam ograniczać moją pozycję w Mintosie. Zdecydowałem, że w imię rozsądnej dywersyfikacji, moją pozycję w tym portalu będę utrzymywał na poziomie *2 500,00 €*. Nadwyżki przekieruje na inne portale.
+Lekkie wybicie ponad średnią z nowym rekordem zwrotów. Platforma wygenerowała zysk w wysokości **24,35 €** przy stanie konta w wysokości **2 445.40 €**. Ustawienia pozostawiłem bez zmian. Od lutego zamierzam ograniczać moją pozycję w [Mintosie](https://c.trackmytarget.com?a=9h2kg7&i=t848e4&source_id=pan_pieniadz). Zdecydowałem, że w imię rozsądnej dywersyfikacji, moją pozycję w tym portalu będę utrzymywał na poziomie *2 500,00 €*. Nadwyżki przekieruje na inne portale.
 
 {% include platform-chart.html id="mintos_eur_chart" platform_name="Mintos EUR" data="[19.92, 21.23, 17.21, 19.74, 22.20, 19.91, 24.35]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021"]' %}
+
+<script type="text/javascript"> document.write('<a href="https://c.trackmytarget.com?a=r7z647&i=t848e4&source_id=pan_pieniadz"><img src="https://i.trackmytarget.com?a=r7z647&i=t848e4&source_id=pan_pieniadz" width="728" height="90" border="0"/></a>'); </script>
 
 ## EstateGuru
 
