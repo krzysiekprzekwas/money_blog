@@ -13,7 +13,7 @@ Chciałbym rzec, że już w pierwszym miesiącu roku osiągam nowe szczyty. Tymc
 
 ## Podsumowanie
 
-W grudniu otrzymałem łącznie **29,79 €** i *(uwaga, uwaga)* straciłem **0,70 zł** pasywnego dochodu. W przeliczeniu na złotówki na podstawie kursu z ostatniego dnia miesiąca oznacza to łączny dochód w wysokości **133,96 zł** przy kapitale na ostatni dzień miesiąca w wysokości **21 136,88 zł**. Wynik historycznie umiarkowany, tak więc zaczynając po kolei od najwyższych zysków:
+W styczniu otrzymałem łącznie **29,79 €** i *(uwaga, uwaga)* straciłem **0,70 zł** pasywnego dochodu. W przeliczeniu na złotówki na podstawie kursu z ostatniego dnia miesiąca oznacza to łączny dochód w wysokości **133,96 zł** przy kapitale na ostatni dzień miesiąca w wysokości **21 136,88 zł**. Wynik historycznie umiarkowany, tak więc zaczynając po kolei od najwyższych zysków:
 
 ## Mintos EUR
 
