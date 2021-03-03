@@ -61,7 +61,7 @@ Tutaj ewidentnie bezprecedensowa sytuacja w moim portfolio. Jak ostatnio deklaro
 
 ## Portfolio
 
-Na koniec procentowe udziały poszczególnych portali przy kursie euro na koniec stycznia. Udział Mintos EUR spada o kolejne 1,5 punktu procentowego. Spodziewam się, że gdy zacznę wycofywać z niego środku ponad wspomnainy wcześniej próg spadek udziału przyśpieszy. Mintos PLN stanowi 1% mojej wartości inwestycji. Inwestycje w nieruchomości stanowią już ponad *20%* mojego portfolio inwestycyjnego.
+Na koniec procentowe udziały poszczególnych portali przy kursie euro na koniec stycznia. Udział Mintos EUR spada o kolejne 1,5 punktu procentowego. Spodziewam się, że gdy zacznę wycofywać z niego środki ponad wspomniany wcześniej próg spadek udziału przyśpieszy. Mintos PLN stanowi 1% mojej wartości inwestycji. Inwestycje w nieruchomości stanowią już ponad *20%* mojego portfolio inwestycyjnego.
 
 <canvas id="portfolioChart" width="400" height="250"></canvas>
 <script>
