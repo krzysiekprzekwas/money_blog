@@ -31,7 +31,7 @@ Zakładamy, że nasza inwestycja przebiegła bez problemu. Zero opóźnień. Czy
 
 ## Historia ostrzega
 
-> Brawo Pani blogerze, jak liczby są wymyślone to i wyniki wychodzą z bajek!
+> Brawo blogerze, jak liczby są wymyślone to i wyniki wychodzą z bajek!
 
 Giełda walut jako praktyka wymiany walut istnieje tak długo, jak same pieniądze, co daje nam dokładną możliwość zweryfikowania moich założeń walutowych. Zacznijmy od niedawnego, pandemicznego 2020 roku.
 
