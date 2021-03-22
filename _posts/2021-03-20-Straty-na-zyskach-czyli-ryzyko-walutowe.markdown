@@ -56,7 +56,7 @@ Przykłady można mnożyć i mnożyć. Nie szukałem tutaj żadnych ekstremalnyc
 
 Jest szansa na to, że po spojrzeniu na wcześniejszą tabelkę zapaliła ci się lampka w głowie ze świetnym pomysłem. 
 
-> A gdym tak tylko wybiera te waluty, których wartość będzie wzrastać? Moje inwestycje byłyby bardziej rentowne!
+> A gdym tak tylko wybierał te waluty, których wartość będzie wzrastać? Moje inwestycje byłyby bardziej rentowne!
 
 Ależ oczywiście, że możesz tak zrobić! Tylko nazywajmy rzeczy po imieniu. Takie myślenie nie jest pasywną inwestycją, P2P ani inną formą crowdfundingu. Takie zachowania branżowo nazywamy **spekulacją na rynku walut**. Nie różni się to wiele od spekulowania na cenie ropy czy tez na giełdach papierów wartościowych, a to raczej traktowałbym jako złą informację. Według raportów CFTC (amerykańska agencja finansowa) ***ponad 75% osób traci pieniądze na giełdzie FOREX, a średnia strata wynosi 15 000 USD***. To nie są wyniki, jakich oczekiwałbym po moim portfolio. Możesz też spytać *frankowiczów*, jak tam im poszła spekulacja na kursie franka. Jeśli natomiast szczęście Ci sprzyja, a z Tarota wychodzi, że czeka Cię przyjemna niespodzianka - próbój na własne ryzyko!
 
