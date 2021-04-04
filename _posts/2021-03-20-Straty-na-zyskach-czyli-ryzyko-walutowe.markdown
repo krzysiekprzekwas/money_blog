@@ -3,10 +3,10 @@ layout: single
 title:  "Straty na zyskach, czyli ryzyko walutowe"
 date:   2021-03-20 12:00:00 +0100
 header:
-    teaser: /assets/img/2021-03-20-Straty-na-zyskach-czyli-ryzyko-walutowe/teaser.png
+    teaser: /assets/img/2021-03-20-Straty-na-zyskach-czyli-ryzyko-walutowe/teaser.jpg
     overlay_color: "#000"
     overlay_filter: "0.5"
-    overlay_image: /assets/img/2021-03-20-Straty-na-zyskach-czyli-ryzyko-walutowe/teaser.png
+    overlay_image: /assets/img/2021-03-20-Straty-na-zyskach-czyli-ryzyko-walutowe/teaser.jpg
 ---
 
 Czy jest możliwe, aby jednocześnie zarabiać i tracić? W naszym ciekawym finansowym świecie jak najbardziej. W tym artykule chciałbym poruszyć temat niezwykle ważny, ale równie często pomijany. Zwróćmy razem uwagę na ryzyko walutowe naszego portfela inwestycyjnego.
