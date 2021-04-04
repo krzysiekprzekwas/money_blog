@@ -13,10 +13,11 @@ Czy jest możliwe, aby jednocześnie zarabiać i tracić? W naszym ciekawym fina
 
 ## O czym mowa?
 
-Bardzo często podczas typowych luźnych rozmów o inflacjach i inwestycjach padają hasła w stylu *"Na polskiej giełdzie to nic się nie dzieje, ja gram na amerykańskich!"*, *"ETF'y od Vanguard'a to aktualnie najlepsza lokat kapitału*, *Jak inwestować to tylko za granicą, na złotówce nic nie ugrasz*. To ile w nich prawdy to tylko czas pokaże, niemniej wszystkie te twierdzenia mają ze sobą jeden wspólny mianownik. Czynnik, który jest niezwykle rzadko poruszany przez inwestorów małych i średnich. W inwestycjach zawsze rozważamy współczynnik zysku do ryzyka, a decydując się na *jakąkolwiek* inwestycje w walucie innej niż nasza rodzima, narażamy się na **ryzyko walutowe**.
+Bardzo często podczas typowych luźnych rozmów o inflacjach i inwestycjach padają hasła w stylu *"Na polskiej giełdzie to nic się nie dzieje, ja gram tylko na amerykańskich!"*, *"ETF'y od Vanguard'a to aktualnie najlepsza lokata kapitału*, *Jak inwestować to tylko za granicą, na złotówce nic nie ugrasz*. To ile w nich prawdy tylko czas pokaże, niemniej wszystkie te twierdzenia mają ze sobą jeden wspólny mianownik. Czynnik, który jest niezwykle rzadko poruszany przez inwestorów małych i średnich. W inwestycjach zawsze rozważamy współczynnik zysku do ryzyka, a decydując się na *jakąkolwiek* inwestycje w walucie innej niż nasza rodzima, narażamy się na **ryzyko walutowe**.
 
 ## No i po co straszysz?
-No super, kolejny straszak! Przyjrzyjmy się dokładniej, na czym polega ryzyko walutowe, tak aby mieć świadomość jego wpływu na nasze inwestycje. Książkowo ryzyko walutowe rozumiemy jako zagrożenie wynikające ze zmienności kursu walut. O tym, jak działają kantory wszyscy dobrze wiemy. O tym, że na kursy walut wpływa ogrom czynników i niemal codziennie się one zmieniają, też raczej jesteśmy świadomi. Zobaczmy teraz najprostszy przykład efektów tych zmian na naszych inwestycjach w typowej pożyczke P2P na **1 rok z oprocentowaniem 10% w Euro o wartości 1000 EUR**. Rozważymy dwa scenariusze zmiany wartości Euro. W pierwszym wartość złotówki spadnie, przez co Euro podrożeje o 15%, w drugim odwrotnie - zakładamy że za rok kupimy Euro 15% taniej niż dziś. Kursy delikatnie zaokrąglę dla prostoty odczytu.
+
+No super, kolejny straszak! Przyjrzyjmy się dokładniej, na czym polega ryzyko walutowe, tak aby mieć świadomość jego wpływu na nasze inwestycje. Książkowo ryzyko walutowe rozumiemy jako zagrożenie wynikające ze zmienności kursu walut. O tym, jak działają kantory wszyscy dobrze wiemy. O tym, że na kursy walut wpływa ogrom czynników i niemal codziennie się one zmieniają, też raczej jesteśmy świadomi. Zobaczmy teraz najprostszy przykład efektów tych zmian na naszych inwestycjach w typowej pożyczke P2P na **1 rok z oprocentowaniem 10% w Euro o wartości 1000 EUR**. Rozważymy dwa scenariusze zmiany wartości Euro. W pierwszym wartość złotówki spadnie, przez co Euro podrożeje o 15%, w drugim odwrotnie - zakładamy że za rok kupimy Euro 15% taniej niż dziś. Kursy delikatnie zaokrąglę dla prostoty obliczeń.
 
 | | Euro podrożało o 15% | Euro potaniało o 15%
 |:------------|:-------------:|:-------------:|
@@ -31,20 +32,20 @@ Zakładamy, że nasza inwestycja przebiegła bez problemu. Zero opóźnień. Czy
 
 ## Historia ostrzega
 
-> Brawo Pani blogerze, jak liczby są wymyślone to i wyniki wychodzą z bajek!
+> Brawo blogerze, jak liczby są wymyślone to i wyniki wychodzą z bajek!
 
-Giełda walut jako praktyka wymiany walut istnieje tak długo, jak same pieniądze, co daje nam dokładną możliwość zweryfikowania moich założeń walutowych. Zacznijmy od niedawnego, pandemicznego 2020 roku.
+Giełda walut jako praktyka wymiany walut istnieje tak długo, jak same pieniądze. Daje nam to dokładną możliwość zweryfikowania moich założeń walutowych. Zacznijmy od niedawnego, pandemicznego 2020 roku i cofajmy się delikatnie wstecz.
 
 **EUR\PLN 2020** W tym roku Euro podrożało dla nas o ***8,3%***. Z *4,2585* do *4,6148*.
-{: .notice--primary}
-
-**EUR\PLN 2017** W tym roku Euro potaniało dla nas o ***5,6%***. Z *4,4157* do *4,1709*.
 {: .notice--primary}
 
 **RUB\PLN 2020** W tym roku Rubel potaniało dla nas o ***8,8%***. Z *0,0611* do *0,0501*.
 {: .notice--primary}
 
 **KZT\PLN 2020** W tym roku tenge potaniało dla nas o ***11,6%***. Z *0,9916* do *0,8767* (za 100 KZT).
+{: .notice--warning}
+
+**EUR\PLN 2017** W tym roku Euro potaniało dla nas o ***5,6%***. Z *4,4157* do *4,1709*.
 {: .notice--warning}
 
 **CHF\PLN 2008** W tym roku frank podrożał dla nas o ***27,4%***. Z *2,1989* do *2,8014* (za 100 KZT).
@@ -56,7 +57,7 @@ Przykłady można mnożyć i mnożyć. Nie szukałem tutaj żadnych ekstremalnyc
 
 Jest szansa na to, że po spojrzeniu na wcześniejszą tabelkę zapaliła ci się lampka w głowie ze świetnym pomysłem. 
 
-> A gdym tak tylko wybiera te waluty, których wartość będzie wzrastać? Moje inwestycje byłyby bardziej rentowne!
+> A gdym tak tylko wybierał te waluty, których wartość będzie wzrastać? Moje inwestycje byłyby bardziej rentowne!
 
 Ależ oczywiście, że możesz tak zrobić! Tylko nazywajmy rzeczy po imieniu. Takie myślenie nie jest pasywną inwestycją, P2P ani inną formą crowdfundingu. Takie zachowania branżowo nazywamy **spekulacją na rynku walut**. Nie różni się to wiele od spekulowania na cenie ropy czy tez na giełdach papierów wartościowych, a to raczej traktowałbym jako złą informację. Według raportów CFTC (amerykańska agencja finansowa) ***ponad 75% osób traci pieniądze na giełdzie FOREX, a średnia strata wynosi 15 000 USD***. To nie są wyniki, jakich oczekiwałbym po moim portfolio. Możesz też spytać *frankowiczów*, jak tam im poszła spekulacja na kursie franka. Jeśli natomiast szczęście Ci sprzyja, a z Tarota wychodzi, że czeka Cię przyjemna niespodzianka - próbój na własne ryzyko!
 
