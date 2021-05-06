@@ -26,7 +26,7 @@ W marcu zgromadzone odsetki stworzyły przychód w wysokości **35,86 €**. W p
 <script type="text/javascript"> document.write('<a href="https://c.trackmytarget.com?a=r7z647&i=t848e4&source_id=pan_pieniadz"><img src="https://i.trackmytarget.com?a=r7z647&i=t848e4&source_id=pan_pieniadz" width="728" height="90" border="0"/></a>'); </script>
 
 ## Lendermarket
-
+ 
 Po niedawnych kapitalizacjach pojawił się wzrost odsetek i oto Lendermarket po raz pierwszy w *TOP 3*. Otrzymałem tutaj w marcu **3,70 €** odsetek. Dofinansowałem też swoją pozycję o *61,05 €*. Po ostatnich zmianach w Auto Invest rentowność platformy się poprawiła - IRR na koniec marca to *13,74%*. Stan konta to **325,93**.
 
 {% include platform-chart.html id="lendermarket_chart" platform_name="Lendermarket" data="[0,0,0,0,0, 0, 1.11, 1.28, 3.70]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021"]' %}
