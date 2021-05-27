@@ -21,7 +21,7 @@ Gdy wygooglamy firmę Finax zobaczymy recenzje opisujące *słowacki fintech*, *
 
 > Misją Finax jest udostępnianie i rozwój inteligentnych inwestycji dla każdego.
 
-Brzmi pięknie, lecz od razu sugeruje kolejne pytanie - jak zamierzają to zrobić. Otóż kluczową różnicą rozróżniającą Finax od znanych nam najczęściej bankowych domów maklerskich jest to, że nie służy on tylko do pośrednictwa w jednostkowych transakcjach na giełdzie. Nawet co więcej - w Finax nie mamy możliwości bezpośredniego składania zleceń kupna i sprzedaży. Ich flagową ofertą jest w pełni automatyczna usługa *robo-advisor* wyręczająca nas w długoterminowym inwestowaniu w fundusze i indeksy.
+Brzmi pięknie, lecz od razu sugeruje kolejne pytanie - jak zamierzają to zrobić. Otóż kluczową różnicą oddzielającą Finax od znanych nam najczęściej bankowych domów maklerskich jest to, że nie służy on tylko do pośrednictwa w jednostkowych transakcjach na giełdzie. Nawet co więcej - w Finax nie mamy możliwości bezpośredniego składania zleceń kupna i sprzedaży. Ich flagową ofertą jest w pełni automatyczna usługa *robo-advisor* wyręczająca nas w długoterminowym inwestowaniu w fundusze i indeksy.
 
 ## Robo-co? Nowy scam!
 
