@@ -13,7 +13,7 @@ Obiecane i zapowiedziane wprowadzenie pierwszego akumulacyjnego produktu inwesty
 
 ## Co mam do powiedzenia?
 
-To jest moja pierwsza realna recenzja konkretnego produktu finansowego, więc przecieramy razem nowe szlaki. Postaram się w pierwszej kolejności przybliżyć Wam czym jest Finax, jak działa, jak z niego korzystam oraz ile mnie to kosztuje czasu i złotówek. Postaram się potem poruszyć dość unikalną kwestię bezpieczeństwa na tej platformie, a na koniec pokaże moją strategię inwestycyjną i jej wyniki po 6 miesiącach inwestycji. Materiał bazuje tylko i wyłącznie na moich doświadczeniach, nie jest konsultowany/wspierany/finansowany/redagowany przez Finax :-) 
+To jest moja pierwsza realna recenzja konkretnego produktu finansowego, więc przecieramy razem nowe szlaki. Postaram się w pierwszej kolejności przybliżyć Wam czym jest Finax, jak działa, jak z niego korzystam oraz ile mnie to kosztuje czasu i złotówek. Postaram się potem poruszyć dość unikalną kwestię bezpieczeństwa na tej platformie, a na koniec pokaże moją strategię inwestycyjną i jej wyniki po 12 miesiącach inwestycji. Materiał bazuje tylko i wyłącznie na moich doświadczeniach, nie jest częścią kampanii reklamowej Finax, a ja poza posiadaniem u nich konta, nie jestem z nimi w żaden sposób powiązanych. Nie uświadczycie tutaj nawet ref-linków. :-) 
 
 ## Czym jest Finax?
 
