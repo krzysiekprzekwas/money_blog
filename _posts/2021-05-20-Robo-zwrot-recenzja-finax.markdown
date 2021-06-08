@@ -46,8 +46,11 @@ Stopa zwrotu powyżej ***13%*** to naprawdę rewelacyjny wynik. Jednak, żeby by
 ## Koszty
 
 Finax mimo swojej robotyzacji możemy także interpretować jako fundusz aktywnie zarządzany, a to oznacza jedno - koszty zarządzania. W Finax występują dwie opłaty:
-* ***1,2 %*** opłaty manipulacyjnej przy wpłatach mniejszych niż 1000 euro
-* ***1,4 %*** opłaty administracyjnej za zarządzanie portfelem
+* ***1,2%*** opłaty manipulacyjnej przy wpłatach mniejszych niż 1000 euro
+* ***1,2%*** opłaty administracyjnej w skali roku za zarządzanie portfelem naliczanej miesięcznie 
+
+Do tego należy w własnych rachunkach doliczyć opłaty manipulacyjne, które pobierają same zakupowane w ramach Finax ETF'y. Najczęściej jest to około  ***0,2%***.
+{: .notice--primary}
 
 Z pewnością są to kwoty, które wpływają na zwroty z inwestycji, jednak w moim przekonaniu jest to część ceny za wygodę, jaką otrzymujemy w tym modelu inwestowania. Do tej pory fundusze zawarte w moim portfolio dawały radę odpracować koszt swojego zarządzania, co traktuje jako duży plus dla Finax.
 
