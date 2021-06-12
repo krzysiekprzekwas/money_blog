@@ -15,7 +15,7 @@ Lekko opóźnione, lecz nadal tak samo treściwe podsumowanie zwrotów z inwesty
 
 W kwietniu moje konta zasiliła kwota w wysokości **35,99 €**. W przeliczeniu na złotówki na podstawie kursu z ostatniego dnia miesiąca oznacza to łączny dochód w wysokości **164,03 zł** przy kapitale na ostatni dzień miesiąca w wysokości **22&nbsp;970,12 zł**. Obiecywałem w kwietniowym sprawozdaniu wprowadzić chociaż jeden produkt z kategorii akcji/udziałów/ETFów i pochodnych. Niestety na początku miesiąca złapał mnie COVID. Rozsypało to moje plany, przez co muszę przełożyć ten fragment na maj. 
 
-{% include platform-chart.html id="total_chart" platform_name="Total" data="[146.85, 168.95, 135.17, 137.70, 171.60, 194.26, 133.96, 171.35, 166.85, 164.03]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","03.2021","04.2021"]' %}
+{% include platform-chart.html id="total_chart" platform_name="Total" data="[146.85, 168.95, 135.17, 137.70, 171.60, 194.26, 133.96, 171.35, 166.85, 164.03]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021"]' %}
 
 ## Mintos EUR
 

@@ -15,7 +15,7 @@ Zamykamy pierwszy kwartał 2021. Stabilne zyski, drobna redystrybucja i dodatkow
 
 W marcu zgromadzone odsetki stworzyły przychód w wysokości **35,86 €**. W przeliczeniu na złotówki na podstawie kursu z ostatniego dnia miesiąca oznacza to łączny dochód w wysokości **166,08 zł** przy kapitale na ostatni dzień miesiąca w wysokości **23&nbsp;092,70 zł**. Prywatnie uspokoiłem swoją sytuację zarobkową. Delikatnie dofinansowałem, jednak większe zmiany w portfelu będą miały miejsce w kwietniu/maju.
 
-{% include platform-chart.html id="total_chart" platform_name="Total" data="[146.85, 168.95, 135.17, 137.70, 171.60, 194.26, 133.96, 171.35, 166.85]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","03.2021"]' %}
+{% include platform-chart.html id="total_chart" platform_name="Total" data="[146.85, 168.95, 135.17, 137.70, 171.60, 194.26, 133.96, 171.35, 166.85]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021"]' %}
 
 ## Mintos EUR
 
