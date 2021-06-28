@@ -55,6 +55,7 @@ author:
   name   : "Pan Pieniądz"
   avatar : "/assets/img/logo.svg"
   bio    : "Moje podejście do codziennych finansów. Pasywne dochody i sposoby na niezależność finansową."
+  facebook: "panpieniadz.blog"
 
 defaults:
   # _posts
