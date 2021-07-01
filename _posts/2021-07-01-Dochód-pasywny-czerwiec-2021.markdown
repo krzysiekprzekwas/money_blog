@@ -27,41 +27,33 @@ W czerwcu otrzymałem odsetki w wysokości
 
 <script type="text/javascript"> document.write('<a href="https://c.trackmytarget.com?a=r7z647&i=t848e4&source_id=pan_pieniadz"><img src="https://i.trackmytarget.com?a=r7z647&i=t848e4&source_id=pan_pieniadz" width="728" height="90" border="0"/></a>'); </script>
 
-
-
-
-
-
-
-
 ## EstateGuru
 
-EstateGuru wzbogaciło mnie w maju o **7,89 €** (*Nowy rekord!*). Aktualny stan portfela to **855,80 €**. Powiększyłem swoją pozycję w tym serwisie o dodatkowe **36,06 €** i zamierzam to kontynuować w kolejnych miesiącach. Na moim koncie jest już *16* inwestycji. Żadna nie jest opóźniona.
+EstateGuru nie pozostaje w tyle i wzbogaciło mnie w czerwcu o **8,72 €** (*Znów nowy rekord!*). Aktualny stan portfela to **964,11 €**. Powiększyłem swoją pozycję w tym serwisie o dodatkowe **100 €**. Zbliżam się do pierwszego kamienia milowego w postaci 1000 €. Brak opóźnień, wiele inwestycji do wybrania - zero emocji.
 
-{% include platform-chart.html id="estateguru_chart" platform_name="EstateGuru" data="[0,0,0,0,0, 1.11, 2.33, 4.46, 3.53, 5.56, 7.89]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021"]' %}
+{% include platform-chart.html id="estateguru_chart" platform_name="EstateGuru" data="[0,0,0,0,0, 1.11, 2.33, 4.46, 3.53, 5.56, 7.89, 8.72]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021","06.2021"]' %}
 
 <script type="text/javascript"> document.write('<a href="https://c.trackmytarget.com/i6s52f?source_id=pan_pieniadz"><img src="https://i.trackmytarget.com/i6s52f?source_id=pan_pieniadz" width="728" height="90" border="0"/></a>'); </script>
 
-## EvoEstate
-
-[EvoEstate](https://c.trackmytarget.com/n98tou?source_id=pan_pieniadz) w maju wzbogaciło moje portfolio o łączną kwotę **5,47 €** (*Nowy rekord!*). Swoją pozycję powiększyłem o kolejne **200 €**, a jej aktualny stan wynosi **714,75 €**. W kwietniu na platformie w sekcji inwestycji alternatywnych dołączył nowy pożyczkobiorca - DebtProfilers. Zainwestowałem drobną kwotę w jedną w ich propozycji promowaną jako *Skin in the game*. Post EvoEstate na temat DebtProfilers [tutaj](https://evoestate.com/blog/debtprofilers).
-
-{% include platform-chart.html id="evoestate_chart" platform_name="EvoEstate" data="[0,0,0,0,0, 0.85, 1.04, 4.90, 2.17, 5.47]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021"]' %}
-
 ## Lendermarket
  
-Otrzymałem tutaj w maju **3,65 €** odsetek. Wynik w miare satysfakcjonujący. Nie wykonuje na tej platformie, żadnych działań - czysty pasyw. W maju przelałem kolejne **26 €**, a mój stan konta w Lendermarket wynosi **335,13 €**
+Czewiec przyniósł na Lendermaket **3,71 €** odsetek. W ciągu miesiąca powiększyłem moją pozycję na tej platfromie w dwóch turach o łącznie kolejne **180 €**. Nadal nie wykonuje na tej platformie, żadnych działań - czysty pasyw. Mój stan konta w Lendermarket na koniec czerwca wynosi **545,10 €**
 
-{% include platform-chart.html id="lendermarket_chart" platform_name="Lendermarket" data="[0,0,0,0,0, 0, 1.11, 1.28, 3.70, 5.20, 3.65]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021"]' %}
+{% include platform-chart.html id="lendermarket_chart" platform_name="Lendermarket" data="[0,0,0,0,0, 0, 1.11, 1.28, 3.70, 5.20, 3.65, 3.71]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021","06.2021"]' %}
 
 <script type="text/javascript"> document.write('<a href="https://c.trackmytarget.com/nreof9?source_id=pan_pieniadz"><img src="https://i.trackmytarget.com/nreof9?source_id=pan_pieniadz" width="728" height="90" border="0"/></a>'); </script>
 
+## EvoEstate
+
+Moje portfolio na [EvoEstate](https://c.trackmytarget.com/n98tou?source_id=pan_pieniadz) w czerwcu wygenerowało odsetki w wysokości **3,29 €**. Jestem bardzo zadowolony z działania tej platformy. To godny przeciwnik dla *EstteGuru* jeśli chodzi platformy z nieruchomowościowymi korzeniami. Swoją pozycję powiększyłem o kolejne **218 €**. Aktualny stan mojego portfela wynosi **936,04 €**.
+
+{% include platform-chart.html id="evoestate_chart" platform_name="EvoEstate" data="[0,0,0,0,0, 0.85, 1.04, 4.90, 2.17, 5.47, 3.29]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021","06.2021"]' %}
 
 ## Crowdestor
 
-Crowdestor wygenerował w maju wpływy na kwotę **0,67 €**. W trakcie miesiąca ostatnie 2 inwestycje, które podtrzymywały moją wiarę w tą platformę, dołączyły do opóźnionych. Oznacza to, że 100% mojego portfolio to pożyczki z trudnościami w spłacie. W związku z powyższym zdecydowałem, aby dwie z nich wystawić na sprzedaż na rynku wtórnym. Sprzedałem je z 2% rabatem (*plus prowizja Crowdestor*), a uzyskane łącznie **384,05 €** wypłaciłem na koniec miesiąca. Kwotę tą będę redystrybuował na inne platformy w czerwcu. Na moim koncie pozostaje **443,83 €**.
+Dogaszam Crowdestor w swoim portfelu. W czwarcu nie otrzymałem żadnych odsetek. W czerwcu udało mi się upłynnić 2 kolejne inwestycje na rynku wtórym i wypłacić z platformy **214,62 €**. Pozostaje mi tam już tylko jedna inwestycja na kwotę **212,99 €**.
 
-{% include platform-chart.html id="crowdestor_chart" platform_name="Crowdestor" data="[6.12, 14.09, 6.99, 5.36, 13.82, 15.35, 0.96, 7.20, 3.69, 2.92, 0.67]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021"]' %}
+{% include platform-chart.html id="crowdestor_chart" platform_name="Crowdestor" data="[6.12, 14.09, 6.99, 5.36, 13.82, 15.35, 0.96, 7.20, 3.69, 2.92, 0.67, 0]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021","06.2021"]' %}
 
 <script type="text/javascript"> document.write('<a href="https://c.trackmytarget.com/kwjv5c?source_id=pan_pieniadz"><img src="https://i.trackmytarget.com/kwjv5c?source_id=pan_pieniadz" width="728" height="90" border="0"/></a>'); </script>
 
@@ -69,16 +61,14 @@ Crowdestor wygenerował w maju wpływy na kwotę **0,67 €**. W trakcie miesią
 
 Brak zmian. Wartość pozostałego kapitału to **214,34 zł**. Czekam na dalszy rozwój zdarzeń.
 
-{% include platform-chart.html id="mintos_pln_chart" platform_name="Mintos PLN" data="[32.02, 13.70, 25.51, 21.77, 10.26, 23.69, -0.70, 0, 0, 0, 0]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021"]' %}
-
+{% include platform-chart.html id="mintos_pln_chart" platform_name="Mintos PLN" data="[32.02, 13.70, 25.51, 21.77, 10.26, 23.69, -0.70, 0, 0, 0, 0, 0]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021","06.2021"]' %}
 
 ## Finax
 
-Zastanawiałem się jak pokazywać produkty kapitałowe pomiędzy tymi odsetkowymi. Na ten moment plan jest taki, że zyski/straty na Finax będę traktował jako odsetki z danego miesiąca. Pokazywanie jednak na wykresie samych zysków nie ma większego sensu, stąd poniższy wykres będzie odzwierciedlał całościową wartość portfela. Startując w maju, stan mojego konta to **2&nbsp;972,00&nbsp;zł**.
+To ledwo druga publikacja portfela Finax, a już czuję, że mój sposób prezentacji ten platformy nie jest odpowiedni. Stan konta na koniec miesiąca to **3&nbsp;276,00&nbsp;zł** uwzględnając **200,00&nbsp;zł** inwestycji na początku miesiąca. Prezentacja tego na jednej lini wykresu utrudnia rozróżnienie, na ile wzrost wartości portfela Finax jest spowodowany inwestycją, a na ile wyceną ETFów. Postaram się wymyślić jakieś sprawne rozwiązanie na ten problem!
 
-<!--
-{% include platform-chart.html id="finax_chart" platform_name="Finax" data="[2972.00]" labels='["05.2021"]' %}
--->
+{% include platform-chart.html id="finax_chart" platform_name="Finax" data="[2972.00, 3276.00]" labels='["05.2021","06.2021"]' %}
+
 
 ## Portfolio
 
@@ -100,13 +90,13 @@ var labels = [
 
 var data = [{
             data: [
-                11399, 
-                2022, 
+                11393, 
+                961, 
                 214, 
-                3257, 
-                3900, 
-                1527, 
-                2972
+                4223, 
+                4350, 
+                2459, 
+                3276
                 ],
             backgroundColor: [
                 'rgba(255, 99, 132, 1)',
