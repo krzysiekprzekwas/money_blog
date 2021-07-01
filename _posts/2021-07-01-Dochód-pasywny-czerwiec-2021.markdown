@@ -9,13 +9,11 @@ header:
     overlay_image: /assets/img/2021-07-01-Dochód-pasywny-czerwiec-2021/teaser.jpg
 ---
 
-Letnie podsumowanie wpływów Pana Pieniądza. Ostatnio sporo się dzieję w gospodarkach na świecie. Z jednej strony wiele poluzowań, z drugiej strony w niektórych miejscach narasta ryzyko czwartej fali pandemii. Zobaczmy jak wpływa to na inwestycje!
+Letnie podsumowanie wpływów Pana Pieniądza. Ostatnio sporo się dzieje w gospodarkach na świecie. Z jednej strony wiele poluzowań, z drugiej strony w niektórych miejscach narasta ryzyko czwartej fali pandemii. Zobaczmy jak wpływa to na inwestycje!
 
 ## Podsumowanie
 
-W czerwcu otrzymałem odsetki w wysokości 
-
-**42,91 €**. W przeliczeniu na złotówki na podstawie kursu z ostatniego dnia miesiąca oznacza to łączny dochód w wysokości **194,06 zł** (*znów gdyby nie kurs EUR to mielibyśmy nowy rekord!*) przy kapitale na ostatni dzień miesiąca w wysokości **23&nbsp;623,11&nbsp;zł**. Na koniec miesiąca wartość produktów kapitałowych (*Finax*) to **3&nbsp;276,00&nbsp;zł**.
+W czerwcu otrzymałem odsetki w wysokości **42,91 €**. W przeliczeniu na złotówki na podstawie kursu z ostatniego dnia miesiąca oznacza to łączny dochód w wysokości **194,06 zł** (*znów, gdyby nie kurs EUR to mielibyśmy nowy rekord!*) przy kapitale na ostatni dzień miesiąca w wysokości **23&nbsp;623,11&nbsp;zł**. Na koniec miesiąca wartość produktów kapitałowych (*Finax*) to **3&nbsp;276,00&nbsp;zł**.
 
 {% include platform-chart.html id="total_chart" platform_name="Total" data="[146.85, 168.95, 135.17, 137.70, 171.60, 194.26, 133.96, 171.35, 166.85, 164.03, 180.01, 194.06]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021","06.2021"]' %}
 
@@ -37,7 +35,7 @@ EstateGuru nie pozostaje w tyle i wzbogaciło mnie w czerwcu o **8,72 €** (*Zn
 
 ## Lendermarket
  
-Czewiec przyniósł na Lendermaket **3,71 €** odsetek. W ciągu miesiąca powiększyłem moją pozycję na tej platfromie w dwóch turach o łącznie kolejne **180 €**. Nadal nie wykonuje na tej platformie, żadnych działań - czysty pasyw. Mój stan konta w Lendermarket na koniec czerwca wynosi **545,10 €**
+Czerwiec przyniósł na Lendermarket **3,71 €** odsetek. W ciągu miesiąca powiększyłem moją pozycję na tej platformie w dwóch turach o łącznie kolejne **180 €**. Nadal nie wykonuje na tej platformie, żadnych działań - czysty pasyw. Mój stan konta w Lendermarket na koniec czerwca wynosi **545,10 €**
 
 {% include platform-chart.html id="lendermarket_chart" platform_name="Lendermarket" data="[0,0,0,0,0, 0, 1.11, 1.28, 3.70, 5.20, 3.65, 3.71]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021","06.2021"]' %}
 
@@ -45,13 +43,13 @@ Czewiec przyniósł na Lendermaket **3,71 €** odsetek. W ciągu miesiąca powi
 
 ## EvoEstate
 
-Moje portfolio na [EvoEstate](https://c.trackmytarget.com/n98tou?source_id=pan_pieniadz) w czerwcu wygenerowało odsetki w wysokości **3,29 €**. Jestem bardzo zadowolony z działania tej platformy. To godny przeciwnik dla *EstteGuru* jeśli chodzi platformy z nieruchomowościowymi korzeniami. Swoją pozycję powiększyłem o kolejne **218 €**. Aktualny stan mojego portfela wynosi **936,04 €**.
+Moje portfolio na [EvoEstate](https://c.trackmytarget.com/n98tou?source_id=pan_pieniadz) w czerwcu wygenerowało odsetki w wysokości **3,29 €**. Jestem bardzo zadowolony z działania tej platformy. To godny przeciwnik dla *EstateGuru*, jeśli chodzi platformy z korzeniami w nieruchomościach. Swoją pozycję powiększyłem o kolejne **218 €**. Aktualny stan mojego portfela wynosi **936,04 €**.
 
 {% include platform-chart.html id="evoestate_chart" platform_name="EvoEstate" data="[0,0,0,0,0, 0.85, 1.04, 4.90, 2.17, 5.47, 3.29]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021","06.2021"]' %}
 
 ## Crowdestor
 
-Dogaszam Crowdestor w swoim portfelu. W czwarcu nie otrzymałem żadnych odsetek. W czerwcu udało mi się upłynnić 2 kolejne inwestycje na rynku wtórym i wypłacić z platformy **214,62 €**. Pozostaje mi tam już tylko jedna inwestycja na kwotę **212,99 €**.
+Dogaszam Crowdestor w swoim portfelu. W czerwcu nie otrzymałem żadnych odsetek. W czerwcu udało mi się upłynnić 2 kolejne inwestycje na rynku wtórym i wypłacić z platformy **214,62 €**. Pozostaje mi tam już tylko jedna inwestycja na kwotę **212,99 €**.
 
 {% include platform-chart.html id="crowdestor_chart" platform_name="Crowdestor" data="[6.12, 14.09, 6.99, 5.36, 13.82, 15.35, 0.96, 7.20, 3.69, 2.92, 0.67, 0]" labels='["07.2020","08.2020","09.2020","10.2020","11.2020","12.2020","01.2021","02.2021","03.2021","04.2021","05.2021","06.2021"]' %}
 
@@ -65,14 +63,14 @@ Brak zmian. Wartość pozostałego kapitału to **214,34 zł**. Czekam na dalszy
 
 ## Finax
 
-To ledwo druga publikacja portfela Finax, a już czuję, że mój sposób prezentacji ten platformy nie jest odpowiedni. Stan konta na koniec miesiąca to **3&nbsp;276,00&nbsp;zł** uwzględnając **200,00&nbsp;zł** inwestycji na początku miesiąca. Prezentacja tego na jednej lini wykresu utrudnia rozróżnienie, na ile wzrost wartości portfela Finax jest spowodowany inwestycją, a na ile wyceną ETFów. Postaram się wymyślić jakieś sprawne rozwiązanie na ten problem!
+To ledwo druga publikacja portfela Finax, a już czuję, że mój sposób prezentacji ten platformy nie jest odpowiedni. Stan konta na koniec miesiąca to **3&nbsp;276,00&nbsp;zł** uwzględniając **200,00&nbsp;zł** inwestycji na początku miesiąca. Prezentacja tego na jednej linii wykresu utrudnia rozróżnienie, w jakim stopniu wzrost wartości portfela Finax jest spowodowany inwestycją, a w jakim wyceną ETFów. Postaram się wymyślić jakieś sprawne rozwiązanie na ten problem!
 
 {% include platform-chart.html id="finax_chart" platform_name="Finax" data="[2972.00, 3276.00]" labels='["05.2021","06.2021"]' %}
 
 
 ## Portfolio
 
-Do obazu dochodzi Finax, więc zobaczymy w tym miesiącu lekką zmianę proporcji. Na ten moment sam Finax stanowi już ponad 10% wartości portfela.
+W porównaniu z krajobrazem, jaki podziwialiśmy na początku tych podsumowań widać znaczącą poprawę w kwestii dywersyfikacji pomiędzy różne platformy i różne formy zabezpieczeń pożyczek.
 
 <canvas id="portfolioChart" width="400" height="250"></canvas>
 <script>
