@@ -1,1 +1,32 @@
-git-keep
+---
+layout: single
+title:  "Pierwsze urodziny Pana Pieniądza"
+date:   2021-07-15 12:00:00 +0100
+header:
+    teaser: /assets/img/2021-07-15-Pierwsze-urodziny-Pana-Pieniadza/teaser.jpg
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: /assets/img/2021-07-15-Pierwsze-urodziny-Pana-Pieniadza/teaser.jpg
+---
+
+Chyba nic nie przemija tak szybko, a jednocześnie tak niepostrzeżenie jak nieliczony czas. W ciągu tego miesiąca przyszła do mnie faktura, że kończy się moja licencja na domenę _PanPieniądz.blog_. Oznacza to, że lada moment mija rok od kiedy pojawiłem się w internecie i zacząłem publicznie publikować moje portfolio inwestycyjne! Chciałbym w tym poście opowiedzieć Wam o swoich wrażeniach z tego projektu (początkowych i obecnnych) oraz najważeniejszych planach na przyszłość.
+
+## Pierwszy kroczek
+
+Powitalny post odważyłem się opublikować 15 lipca 2020 roku. Niezapomniane uczucie wymieszanej ekscytacji z wstydem i strachem. Od tamtego momentu udostępniłem pod swoim internetowym pseudonimem łącznie 19 postów. Nie jest to wynik powalający na kolana, jednak dla mnie jest on niezwykle ważny. Nie jestem typem osoby, która posiada bezwzględną łatwość ekspresji swoich myśli i przekonań. Fakt, że odważyłem się opublikować pierwszy post pozwolił mi przełamać pewną barierę wewnętrząć i udowodnić sobie samemu, że blogowanie to coś czego też mogę się nauczyć.
+
+## Pierwsze wrażenia
+
+Finanse mają to do siebie, że ludzie bardzo często podchodzą do nich mocno osobiście. W pełni to rozumiem. W końcu sam traktuje je na tyle poważnie, że zacząłem prowadzić o nich bloga. Odczuwalne jest też jednak to, że wiele osób zaangażowanych w dziedziny inwestycyjne, oszczędnościowe czy dochodowe ma swoje własne prawdy, z którymi próżno debatować. Chwilę mi to zajęło zanim doszedłem do tego wniosku, jednak po drodze _zarobiłem_ sobie niemało dość zgryźliwych komentarzy. Część z nich była naprawdę pomocna. Zwrócono mi uwagę na takie podstawy jak wielokrotna weryfikacja ortografii i sładni moich tekstów, niektóe dyskusyjne rozwiązania estetyczne oraz na przyswajalność języka jakiego używam do komunikacji z Wami. 
+
+Znalazły się tez jednak takie komentarze, których realny cel ciężko mi określić. Internet jako całość ma raczej słodko-kwaśny smak i z tym musiałem się liczyć. Jeśli planujesz w swoim czasie uruchamiać swojego bloga/funpage/instagrama/stronkę miej na uwadzę, że nie na każdy czerstwy chleb warto smarować masło. PanPieniądz to moja osobista wizja transparentnych publikacji inwestycyjnych. To nie są porady co Ty masz robić ze swoimi pieniędzmi.
+
+## Ile zarobiłem na reklamach
+
+Jeśli czytaliście chociaż jedno podsumowanie miesięczne, to mogliście zwrócić uwagę, że w niektórych miejscach na blogu znajdują się banery reklamowe. Zastanawiałem się przez pewien czas, czy to jest forma advertisingu jaką chciałbym tutaj prowadzić. Ustaliłem sobie pare zasad:
+-- Banery umieszczam jako graficzny element przy omawianiu poszczególnej platformy.
+-- Żadna reklama nie może być inwazyjna. Żadnych popupów, muzyczek, pełnych ekranów itp.
+-- Jeśli masz AdBlocka to trudno. Masz swoje przekonanie co do "ceny" internetu i nie będę z tym walczył.
+-- Reklamy mogą dotyczyć tylko produktów z którymi mam _bezpośednie_ doświadczenie. Żadnych rekomendacji w ciemno.
+
+Zdecydowałem się na dołączenie do programu (TargetCircle)[https://targetcircle.com/]. Z wziązku z tym, otrzymuje wypłatę w scenariuszu w którym ktoś założy konto i zainwestuje w daną platformę po wejściu z mojego linka/banera. Ten fakt + dość restrykcyjne zasady co do reklam powodują, że na przestrzeni ostatnich 12 miesięcy średni dochód na miesiąc z reklam to powalające **1,24 €**. Mówę to po to, żebyś miał świadomość dlaczego prowadzę tego bloga. Moją intencją nie jest zainkasować jak najwięcej z udostępniania Twojego ukranu re 
