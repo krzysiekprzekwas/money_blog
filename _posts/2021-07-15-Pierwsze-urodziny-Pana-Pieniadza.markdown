@@ -29,4 +29,21 @@ Jeśli czytaliście chociaż jedno podsumowanie miesięczne, to mogliście zwró
 -- Jeśli masz AdBlocka to trudno. Masz swoje przekonanie co do "ceny" internetu i nie będę z tym walczył.
 -- Reklamy mogą dotyczyć tylko produktów z którymi mam _bezpośednie_ doświadczenie. Żadnych rekomendacji w ciemno.
 
-Zdecydowałem się na dołączenie do programu (TargetCircle)[https://targetcircle.com/]. Z wziązku z tym, otrzymuje wypłatę w scenariuszu w którym ktoś założy konto i zainwestuje w daną platformę po wejściu z mojego linka/banera. Ten fakt + dość restrykcyjne zasady co do reklam powodują, że na przestrzeni ostatnich 12 miesięcy średni dochód na miesiąc z reklam to powalające **1,24 €**. Mówę to po to, żebyś miał świadomość dlaczego prowadzę tego bloga. Moją intencją nie jest zainkasować jak najwięcej z udostępniania Twojego ukranu re 
+Zdecydowałem się na dołączenie do programu (TargetCircle)[https://targetcircle.com/]. Z wziązku z tym, otrzymuje wypłatę w scenariuszu w którym ktoś założy konto i zainwestuje w daną platformę po wejściu z mojego linka/banera. Ten fakt + dość restrykcyjne zasady co do reklam powodują, że na przestrzeni ostatnich 12 miesięcy średni dochód na miesiąc z reklam to powalające **1,24 €**. Mówę to po to, żebyś miał świadomość dlaczego prowadzę tego bloga. Moją intencją nie jest zainkasować jak najwięcej z udostępniania Twojego ukranu reklamodawcom, a jedynie budować wspólną społeczność świadomą potencjalnych zysków i ryzyk w świecie inwestycji alternatywnych.
+
+## Techniczne ciekawostki
+
+Zaczynając ten projekt nie miałem do siebie wystarczającego zaufania, aby przekonać się do inwestycji zaczącej ilości miedziaków i czasu już na samym starcie. Ruszyłem na start  na platformie BlogSpot. Pozwoliło to ruszyć niemal w jeden wieczór, jednak przy mojej zerowej znajomości tej usługi związałem sobie ręce wizualnie i funkcjonalnie. Po jakims czasie zdecydowałem się na samodzielny twór poprzez który mam mozliwość publikować Wam moje podsumowania. Przyniosło to więcej świeżości i elastyczności. Wizualna tożsamość tego bloga przeszła pare iteracji, ale chyba zaczynamy do brzegu. Dostałem od Was wiele przydatnych sugestii co jeszcze mógłbym usprawnić, aby uczynić treść bardziej przyswajalną. W najbliższych miesiącach zamiarzam się pochylić nad takimi tematami jak:
+-- Nowa podstrona z graficznym spisem całego portfolio "na dziś"
+-- Prostrze do interpretacji nagłówki przy poszczególnych platformach na miesiącznych podsumowaniach
+-- Wykresy uwzględniające zarówno zyski jak i włożony kapitał
+
+A co dalej to zobaczymy :-)
+
+## A poza piśmiennictwem
+
+Mogliście zauważyć jakiś czas temu, że pod moim bio pojawił się dość niewyględny na ten moment link do mojego fanpage na Facebooku. Szukam sposobów na zwiększenie zasięgów mojego bloga. Jeśli macie na to ochotę to zapraszam do zostawienia łapki w górę, aby widzieć informacje o nowych postach. Najwyższa też pora, aby skorzystać z udostępnionego Wam newslettera. Od początku bloga zapisało się już tam kilkadziesiąt osób, lecz jak pewnie subskrybenci zauważyli - nigdy nie wysłałem żadnej wiadomości. Postaram się przygotować schludną templatkę do maila i informować raz na miesiąc co udało mi się opublikować.
+
+## Tak więc
+
+To chyba wszystko co chciałem Wam przekazać po roku mojej aktywności pod cyfrowym pseudonimem Pana Pieniądza. Jestem sobie samemu niezmierni wdzięczny, że rok temu odważyłem się wyjść z moim portfelem do ludzi. Dziękuje za wszystkie opinie, te przychylne i odwrotnie, sugestie i uwagę jaką poświecacie moim publikacjom. Do usłyszenia niedługo na najbliższym podsumowaniu portfela!
