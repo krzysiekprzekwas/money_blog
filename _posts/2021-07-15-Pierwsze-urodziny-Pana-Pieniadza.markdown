@@ -13,6 +13,8 @@ Chyba nic nie przemija tak szybko, a jednocześnie tak niepostrzeżenie, jak nie
 
 ## Pierwszy kroczek
 
+{% include figure image_path="/assets/img/2021-07-15-Pierwsze-urodziny-Pana-Pieniadza/1.jpg" alt="Stats" caption="Pierwszy post na Bloggerze przesadnie serc nie pobił." %}
+
 Powitalny post odważyłem się opublikować 15 lipca 2020 roku. Niezapomniane uczucie wymieszanej ekscytacji ze wstydem i strachem. Od tamtego momentu udostępniłem pod swoim internetowym pseudonimem łącznie 19 postów. Nie jest to wynik powalający na kolana, jednak dla mnie jest on niezwykle ważny. Nie jestem typem osoby, która posiada bezwzględną łatwość ekspresji swoich myśli i przekonań. Fakt, że odważyłem się opublikować pierwszy post, pozwolił mi przełamać pewną barierę wewnętrząć i udowodnić sobie samemu, że blogowanie to coś, czego też mogę się nauczyć.
 
 ## Pierwsze wrażenia
@@ -33,7 +35,9 @@ Zdecydowałem się na dołączenie do programu [TargetCircle](https://targetcirc
 
 ## Techniczne ciekawostki
 
-Zaczynając ten projekt nie miałem do siebie wystarczającego zaufania, aby przekonać się do inwestycji większej liczby miedziaków i własnego czasu już na samym starcie. Ruszyłem na start  na platformie BlogSpot. Pozwoliło to ruszyć niemal w jeden wieczór, jednak przy mojej zerowej znajomości tej usługi związałem sobie ręce wizualnie i funkcjonalnie. Po jakimś czasie zdecydowałem się na samodzielny twór, poprzez który mam możliwość publikować Wam moje podsumowania. Przyniosło to więcej świeżości i elastyczności. Wizualna tożsamość tego bloga przeszła parę iteracji, ale chyba zaczynamy do brzegu. Dostałem od Was wiele przydatnych sugestii dotyczących rzeczy, które mógłbym dalej usprawnić, aby uczynić treść bardziej przyswajalną. W najbliższych miesiącach zamiarzam się pochylić nad takimi tematami jak:
+{% include figure image_path="/assets/img/2021-07-15-Pierwsze-urodziny-Pana-Pieniadza/2.jpg" alt="Blogger" caption="O gustach się nie dyskutuje, ale zdecydowanie wole becną formę bloga." %}
+
+Zaczynając ten projekt nie miałem do siebie wystarczającego zaufania, aby przekonać się do inwestycji większej liczby miedziaków i własnego czasu już na samym starcie. Ruszyłem na start  na platformie BlogSpot/Blogger. Pozwoliło to ruszyć niemal w jeden wieczór, jednak przy mojej zerowej znajomości tej usługi związałem sobie ręce wizualnie i funkcjonalnie. Po jakimś czasie zdecydowałem się na samodzielny twór, poprzez który mam możliwość publikować Wam moje podsumowania. Przyniosło to więcej świeżości i elastyczności. Wizualna tożsamość tego bloga przeszła parę iteracji, ale chyba zaczynamy do brzegu. Dostałem od Was wiele przydatnych sugestii dotyczących rzeczy, które mógłbym dalej usprawnić, aby uczynić treść bardziej przyswajalną. W najbliższych miesiącach zamiarzam się pochylić nad takimi tematami jak:
 * Nowa podstrona z graficznym spisem całego portfolio "na dziś"
 * Prostsze do interpretacji nagłówki przy poszczególnych platformach na miesięcznych podsumowaniach
 * Wykresy uwzględniające zarówno zyski, jak i włożony kapitał
